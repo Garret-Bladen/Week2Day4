@@ -1,0 +1,10 @@
+.parent {
+    text-align: center;
+    border: 2px solid black;
+    margin: 300px 650px 650px;
+    padding: 50px 10px 50px 10px;
+    font-family: sans-serif;
+}
+input[type="submit"] {
+    padding: 0 100px 0 100px;
+}
